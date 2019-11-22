@@ -1,4 +1,4 @@
-# README
+# jQuery & AJAX
 
 ## Pair-Programming :
 
